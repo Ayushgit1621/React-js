@@ -1,9 +1,12 @@
 
-
+import Chai from './Chai';
 
 function App() {
   return (
-   <h1>React first </h1>
+    <>
+      <h1>React first </h1>
+      <Chai />
+    </>
   );
 }
 
