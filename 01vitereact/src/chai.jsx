@@ -1,6 +1,6 @@
 function Chai(){
     return (
-        <h2>Ayush is ready!!</h2>
+        <h2>Ayush is ready!!from Chai.jsx file </h2>
     )
 }
 
